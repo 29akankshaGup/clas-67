@@ -1,8 +1,8 @@
 Monkey
 Duck
-+++++
 Dolphin
-++
 
 2nd:
 Lets add plants
+
+Crocodile
