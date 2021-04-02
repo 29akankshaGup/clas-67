@@ -4,5 +4,6 @@ Duck
 Dolphin
 ++
 
-2nd:
+
 Lets add plants
+Also will add new animals and giraffe
